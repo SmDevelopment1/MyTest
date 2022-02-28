@@ -59,13 +59,9 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-15.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-16.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-18.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-19.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-20.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-22.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-23.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-24.webp",
      
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-1.webp",
