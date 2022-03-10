@@ -38,7 +38,23 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_3/frame-18.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-5.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-14.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-17.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square_1/frame-17.webp",
+   
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/squr/fram-14.webp"
+   
     ],
    
   "landscape":[
@@ -61,7 +77,28 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_2/frame%20(15).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_2/frame%20(16).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(12).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(16).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(16).webp",
+   
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-18.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-20.webp"
     
   ]
 }
