@@ -34,7 +34,11 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-32.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-33.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-34.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-35.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-35.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-36.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-39.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-40.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubraakPhtoFraams/squr/fram-41.webp"
     
     ],
   
