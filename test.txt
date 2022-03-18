@@ -790,8 +790,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-12.webp"
-     
-    ]
+    ],
     
      "landscape6":[
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-1.webp",
