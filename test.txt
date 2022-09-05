@@ -273,7 +273,30 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/land1/fram-21.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/land1/fram-22.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/land1/fram-23.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/land1/fram-24.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/land1/fram-24.webp",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_20.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_21.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/GandhijiiPotoFrmes/land/frame_22.webp"
      
     
      
