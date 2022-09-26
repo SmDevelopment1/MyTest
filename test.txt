@@ -54,7 +54,7 @@
     ],
 	
   "landscape":[
-   
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/bijoylnd.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-5.webp",
