@@ -457,11 +457,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_24.webp"
     ],
     
-    
-  "portrait2":[
-  
-  16 December
-  ],
+
     
   "portrait3":[
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/1429port/fram-1.webp",
@@ -494,17 +490,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/1429port/fram-28.webp"
     ],
     
-  "portrait4":[
   
-  Shok Dibosh
-  
-  ],
-  
-  "portrait5":[
-  
-  BD Flag
-  
-  ],
   
     
     "portrait6":[
@@ -532,11 +518,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/port/fram-26.webp" 
     ],
     
-    "portrait7":[
-  
-  BNP
-  
-  ],
+
    
   "portrait8":[
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-1.webp",
@@ -762,11 +744,7 @@
     
     ],
   
-  "portrait17":[
-  
-  New Year
-  
-  ],
+
     
   "portrait18":[
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fb1.webp",
@@ -899,7 +877,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/flag/flag-13.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/flag/flag-14.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/flag/flag-15.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/flag/flag-16.webp" ,
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/flag/flag-16.webp",
      
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-2.webp",
@@ -1074,7 +1052,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-21.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-22.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-23.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-24.webp" ,
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-24.webp",
    
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-2.webp",
@@ -1103,7 +1081,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-23.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-24.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-25.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-26.webp" ,
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-26.webp",
    
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/landd/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BirthdyPhotFrams/landd/fram-2.webp",
