@@ -124,9 +124,9 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-16.webp"
     ],
     
-   "square6":[
+<!-- "square6":[
    FLAG FRAME
-    ],
+    ], -->
     
   "square6":[
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/squr-1.webp",
