@@ -124,9 +124,9 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-16.webp"
     ],
     
-<!-- "square6":[
-   FLAG FRAME
-    ], -->
+ "square6":[
+   "FLAG FRAME"
+    ], 
     
   "square6":[
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/squr-1.webp",
@@ -430,7 +430,7 @@
     
     "square17":[
     
-    NewYear
+    "NewYear"
     
     ],
     
@@ -507,7 +507,7 @@
     
   "portrait2":[
   
-  16 December
+  "16 December"
   ],
     
   "portrait3":[
@@ -543,13 +543,13 @@
     
   "portrait4":[
   
-  Shok Dibosh
+  "Shok Dibosh"
   
   ],
   
   "portrait5":[
   
-  BD Flag
+  "BD Flag"
   
   ],
   
@@ -581,7 +581,7 @@
     
     "portrait7":[
   
-  BNP
+  "BNP"
   
   ],
    
@@ -811,7 +811,7 @@
   
   "portrait17":[
   
-  New Year
+  "New Year"
   
   ],
     
