@@ -1,13 +1,24 @@
 {  
     "square":[
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-3.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-4.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-6.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-7.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/nov22/fram-8.webp"
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-1.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-2.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-3.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-4.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-5.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-6.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-7.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-8.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-9.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-10.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-11.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-12.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-13.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-14.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-15.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-16.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-17.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-18.webp",
+   "https://raw.githubusercontent.com/SmDevelopment1/MyTest/main/demo_newyear/a-19.webp"
    
     ],
     
